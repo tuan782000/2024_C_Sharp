@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\bin\Debug\net8.0\01_install.exe
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\bin\Debug\net8.0\01_install.deps.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\bin\Debug\net8.0\01_install.runtimeconfig.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\bin\Debug\net8.0\01_install.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\bin\Debug\net8.0\01_install.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\obj\Debug\net8.0\01_install.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\obj\Debug\net8.0\01_install.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\obj\Debug\net8.0\01_install.AssemblyInfo.cs
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\obj\Debug\net8.0\01_install.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\obj\Debug\net8.0\01_install.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\obj\Debug\net8.0\refint\01_install.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\obj\Debug\net8.0\01_install.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\obj\Debug\net8.0\01_install.genruntimeconfig.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\01_install\obj\Debug\net8.0\ref\01_install.dll

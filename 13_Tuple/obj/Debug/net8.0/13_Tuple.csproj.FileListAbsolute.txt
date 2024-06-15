@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\bin\Debug\net8.0\13_Tuple.exe
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\bin\Debug\net8.0\13_Tuple.deps.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\bin\Debug\net8.0\13_Tuple.runtimeconfig.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\bin\Debug\net8.0\13_Tuple.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\bin\Debug\net8.0\13_Tuple.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\obj\Debug\net8.0\13_Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\obj\Debug\net8.0\13_Tuple.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\obj\Debug\net8.0\13_Tuple.AssemblyInfo.cs
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\obj\Debug\net8.0\13_Tuple.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\obj\Debug\net8.0\13_Tuple.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\obj\Debug\net8.0\refint\13_Tuple.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\obj\Debug\net8.0\13_Tuple.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\obj\Debug\net8.0\13_Tuple.genruntimeconfig.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\13_Tuple\obj\Debug\net8.0\ref\13_Tuple.dll

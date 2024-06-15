@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\obj\Debug\net8.0\02_variable_type_var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\obj\Debug\net8.0\02_variable_type_var.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\obj\Debug\net8.0\02_variable_type_var.AssemblyInfo.cs
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\obj\Debug\net8.0\02_variable_type_var.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\bin\Debug\net8.0\02_variable_type_var.exe
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\bin\Debug\net8.0\02_variable_type_var.deps.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\bin\Debug\net8.0\02_variable_type_var.runtimeconfig.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\bin\Debug\net8.0\02_variable_type_var.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\bin\Debug\net8.0\02_variable_type_var.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\obj\Debug\net8.0\02_variable_type_var.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\obj\Debug\net8.0\refint\02_variable_type_var.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\obj\Debug\net8.0\02_variable_type_var.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\obj\Debug\net8.0\02_variable_type_var.genruntimeconfig.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\02_variable_type_var\obj\Debug\net8.0\ref\02_variable_type_var.dll

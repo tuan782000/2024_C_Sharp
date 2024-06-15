@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\obj\Debug\net8.0\07_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\obj\Debug\net8.0\07_if_else.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\obj\Debug\net8.0\07_if_else.AssemblyInfo.cs
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\obj\Debug\net8.0\07_if_else.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\bin\Debug\net8.0\07_if_else.exe
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\bin\Debug\net8.0\07_if_else.deps.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\bin\Debug\net8.0\07_if_else.runtimeconfig.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\bin\Debug\net8.0\07_if_else.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\bin\Debug\net8.0\07_if_else.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\obj\Debug\net8.0\07_if_else.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\obj\Debug\net8.0\refint\07_if_else.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\obj\Debug\net8.0\07_if_else.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\obj\Debug\net8.0\07_if_else.genruntimeconfig.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\07_if_else\obj\Debug\net8.0\ref\07_if_else.dll

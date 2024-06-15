@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\obj\Debug\net8.0\11_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\obj\Debug\net8.0\11_Class.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\obj\Debug\net8.0\11_Class.AssemblyInfo.cs
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\obj\Debug\net8.0\11_Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\bin\Debug\net8.0\11_Class.exe
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\bin\Debug\net8.0\11_Class.deps.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\bin\Debug\net8.0\11_Class.runtimeconfig.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\bin\Debug\net8.0\11_Class.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\bin\Debug\net8.0\11_Class.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\obj\Debug\net8.0\11_Class.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\obj\Debug\net8.0\refint\11_Class.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\obj\Debug\net8.0\11_Class.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\obj\Debug\net8.0\11_Class.genruntimeconfig.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\11_Class\obj\Debug\net8.0\ref\11_Class.dll

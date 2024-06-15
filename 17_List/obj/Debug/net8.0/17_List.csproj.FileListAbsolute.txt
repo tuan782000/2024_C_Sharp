@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\obj\Debug\net8.0\17_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\obj\Debug\net8.0\17_List.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\obj\Debug\net8.0\17_List.AssemblyInfo.cs
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\obj\Debug\net8.0\17_List.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\bin\Debug\net8.0\17_List.exe
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\bin\Debug\net8.0\17_List.deps.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\bin\Debug\net8.0\17_List.runtimeconfig.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\bin\Debug\net8.0\17_List.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\bin\Debug\net8.0\17_List.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\obj\Debug\net8.0\17_List.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\obj\Debug\net8.0\refint\17_List.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\obj\Debug\net8.0\17_List.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\obj\Debug\net8.0\17_List.genruntimeconfig.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\17_List\obj\Debug\net8.0\ref\17_List.dll

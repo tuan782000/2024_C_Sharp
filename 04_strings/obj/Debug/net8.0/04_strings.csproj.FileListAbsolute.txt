@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\bin\Debug\net8.0\04_strings.exe
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\bin\Debug\net8.0\04_strings.deps.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\bin\Debug\net8.0\04_strings.runtimeconfig.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\bin\Debug\net8.0\04_strings.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\bin\Debug\net8.0\04_strings.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\obj\Debug\net8.0\04_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\obj\Debug\net8.0\04_strings.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\obj\Debug\net8.0\04_strings.AssemblyInfo.cs
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\obj\Debug\net8.0\04_strings.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\obj\Debug\net8.0\04_strings.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\obj\Debug\net8.0\refint\04_strings.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\obj\Debug\net8.0\04_strings.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\obj\Debug\net8.0\04_strings.genruntimeconfig.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\04_strings\obj\Debug\net8.0\ref\04_strings.dll

@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\bin\Debug\net8.0\06_for_and_forEach.exe
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\bin\Debug\net8.0\06_for_and_forEach.deps.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\bin\Debug\net8.0\06_for_and_forEach.runtimeconfig.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\bin\Debug\net8.0\06_for_and_forEach.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\bin\Debug\net8.0\06_for_and_forEach.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\obj\Debug\net8.0\06_for_and_forEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\obj\Debug\net8.0\06_for_and_forEach.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\obj\Debug\net8.0\06_for_and_forEach.AssemblyInfo.cs
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\obj\Debug\net8.0\06_for_and_forEach.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\obj\Debug\net8.0\06_for_and_forEach.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\obj\Debug\net8.0\refint\06_for_and_forEach.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\obj\Debug\net8.0\06_for_and_forEach.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\obj\Debug\net8.0\06_for_and_forEach.genruntimeconfig.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\06_for_and_forEach\obj\Debug\net8.0\ref\06_for_and_forEach.dll

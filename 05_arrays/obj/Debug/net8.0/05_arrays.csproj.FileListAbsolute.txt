@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\obj\Debug\net8.0\05_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\obj\Debug\net8.0\05_arrays.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\obj\Debug\net8.0\05_arrays.AssemblyInfo.cs
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\obj\Debug\net8.0\05_arrays.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\bin\Debug\net8.0\05_arrays.exe
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\bin\Debug\net8.0\05_arrays.deps.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\bin\Debug\net8.0\05_arrays.runtimeconfig.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\bin\Debug\net8.0\05_arrays.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\bin\Debug\net8.0\05_arrays.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\obj\Debug\net8.0\05_arrays.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\obj\Debug\net8.0\refint\05_arrays.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\obj\Debug\net8.0\05_arrays.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\obj\Debug\net8.0\05_arrays.genruntimeconfig.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\05_arrays\obj\Debug\net8.0\ref\05_arrays.dll

@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\bin\Debug\net8.0\08_Enum.exe
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\bin\Debug\net8.0\08_Enum.deps.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\bin\Debug\net8.0\08_Enum.runtimeconfig.json
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\bin\Debug\net8.0\08_Enum.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\bin\Debug\net8.0\08_Enum.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\obj\Debug\net8.0\08_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\obj\Debug\net8.0\08_Enum.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\obj\Debug\net8.0\08_Enum.AssemblyInfo.cs
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\obj\Debug\net8.0\08_Enum.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\obj\Debug\net8.0\08_Enum.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\obj\Debug\net8.0\refint\08_Enum.dll
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\obj\Debug\net8.0\08_Enum.pdb
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\obj\Debug\net8.0\08_Enum.genruntimeconfig.cache
+C:\Users\DELL\Desktop\JS\2024_C_Sharp\08_Enum\obj\Debug\net8.0\ref\08_Enum.dll
